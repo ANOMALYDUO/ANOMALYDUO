@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+ main : <a href="https://github.com/scaredycatduo/"> @scaredycatduo</a> <br>
 
-<!--
-**ANOMALYDUO/ANOMALYDUO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align="center">
+  matching trio alts : <a href="https://github.com/thecleansers/"> @thecleansers</a> <a href="https://github.com/thedirties/"> @thedirties</a> <a href="https://github.com/thechaosfaction/"> @thechaosfaction</a> <br>
 
-Here are some ideas to get you started:
+  <p align="center">
+   solo : <a href="https://github.com/4CVlT/"> @4CVlT</a> <a href="https://github.com/baa-blu/"> @baa-blu</a> <a href="https://github.com/frilledjellyfish/"> @frilledjellyfish</a> <a href="https://github.com/calamitywitch/"> @calamitywitch</a> <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <p align="center">
+   m/w : <a href="https://github.com/invisiblemafia/"> @invisiblemafia</a> <br>
+
+   <p align="center">
+   ship : <a href="https://github.com/thomsaps/"> @thomsaps</a>
