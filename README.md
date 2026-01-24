@@ -11,4 +11,4 @@
    m/w : <a href="https://github.com/invisiblemafia/"> @invisiblemafia</a> <br>
 
    <p align="center">
-   ship : <a href="https://github.com/thomsaps/"> @thomsaps</a>
+   ship : <a href="https://github.com/thomsaps/"> @thomsaps</a> <a href="https://github.com/thomfluxarata/"> @thomfluxarata</a>
