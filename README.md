@@ -5,7 +5,7 @@
   matching trio alts : <a href="https://github.com/thecleansers/"> @thecleansers</a> <a href="https://github.com/thedirties/"> @thedirties</a> <a href="https://github.com/thechaosfaction/"> @thechaosfaction</a> <br>
 
   <p align="center">
-   solo : <a href="https://github.com/4CVlT/"> @4CVlT</a> <a href="https://github.com/baa-blu/"> @baa-blu</a> <a href="https://github.com/frilledjellyfish/"> @frilledjellyfish</a> <a href="https://github.com/KURORIAS/"> @KURORIAS</a> <a href="https://github.com/nobukosasaki/"> @nobukosasaki</a> <a href="https://github.com/ticklingtoes/"> @ticklingtoes</a> <a href="https://github.com/kagaminesan/"> @kagaminesan</a> <a href="https://github.com/sappylove/"> @sappylove</a><br>
+   solo : <a href="https://github.com/4CVlT/"> @4CVlT</a> <a href="https://github.com/baa-blu/"> @baa-blu</a> <a href="https://github.com/frilledjellyfish/"> @frilledjellyfish</a> <a href="https://github.com/KURORIAS/"> @KURORIAS</a> <a href="https://github.com/nobukosasaki/"> @nobukosasaki</a> <a href="https://github.com/ticklingtoes/"> @ticklingtoes</a> <a href="https://github.com/kagaminesan/"> @kagaminesan</a> <a href="https://github.com/sappylove/"> @sappylove</a> <a href="https://github.com/bunzywhunzy/"> @bunzywhunzy</a><br>
 
    <p align="center">
    m/w : <a href="https://github.com/invisiblemafia/"> @invisiblemafia</a> <br>
