@@ -5,7 +5,7 @@
   matching trio alts 4 gng : <a href="https://github.com/toofluxarata/"> @toofluxarata</a> <a href="https://github.com/toosharplow/"> @toosharplow</a> <a href="https://github.com/tootimosilas/"> @tootimosilas</a> <br>
 
   <p align="center">
-   solo : <a href="https://github.com/4CVlT/"> @4CVlT</a> <a href="https://github.com/baa-blu/"> @baa-blu</a> <a href="https://github.com/frilledjellyfish/"> @frilledjellyfish</a> <a href="https://github.com/KURORIAS/"> @KURORIAS</a> <a href="https://github.com/nobukosasaki/"> @nobukosasaki</a> <a href="https://github.com/ticklingtoes/"> @ticklingtoes</a> <a href="https://github.com/kagaminesan/"> @kagaminesan</a> <a href="https://github.com/sappylove/"> @sappylove</a> <a href="https://github.com/bunzywhunzy/"> @bunzywhunzy</a><br>
+   solo : <a href="https://github.com/4CVlT/"> @4CVlT</a> <a href="https://github.com/baa-blu/"> @baa-blu</a> <a href="https://github.com/frilledjellyfish/"> @frilledjellyfish</a> <a href="https://github.com/KURORIAS/"> @KURORIAS</a> <a href="https://github.com/nobukosasaki/"> @nobukosasaki</a> <a href="https://github.com/ticklingtoes/"> @ticklingtoes</a> <a href="https://github.com/kagaminesan/"> @kagaminesan</a> <a href="https://github.com/sappylove/"> @sappylove</a> <a href="https://github.com/bunzywhunzy/"> @bunzywhunzy</a><br> <a href="https://github.com/meowingnoises/"> @meowingnoises</a><br>
 
    <p align="center">
    m/w : <a href="https://github.com/invisiblemafia/"> @invisiblemafia</a> <br>
